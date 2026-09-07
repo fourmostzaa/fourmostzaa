@@ -20,4 +20,6 @@ Man can do what he wills but he cannot will what he wills
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="40" height="40" />
 </p>
