@@ -6,7 +6,7 @@ Man can do what he wills but he cannot will what he wills
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [nawakhunwannakhan43@gmail.com](mailto:nawakhunwannakhan43@gmail.com)
 * 🧠  I'm currently learning Software Engineering
-* 💬  Ask me about Your hand is cold, mine burns like fire. How blind you are, ......
+* 💬  Ask me about Your hand is cold, mine burns like fire. How blind you are, ......!
 
 
 ### 🛠️ Languages & Tools
