@@ -34,11 +34,6 @@ Man can do what he wills but he cannot will what he wills
 ![MVC Pattern](https://img.shields.io/badge/MVC_Pattern-4A154B?style=for-the-badge&logo=blueprint&logoColor=white)
 ![SPA](https://img.shields.io/badge/SPA-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Data Science & Machine Learning**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 **Deployment, CI/CD & Tools**  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
